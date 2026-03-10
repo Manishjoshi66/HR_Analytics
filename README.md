@@ -3,6 +3,10 @@ HR Analytics involves analyzing employee data to identify workforce trends and s
 
 ## DataSet Used
 
-< a href = "https://github.com/Manishjoshi66/HR_Analytics/blob/main/HR_Analytics.csv"> Dataset</a>
+<a href = "https://github.com/Manishjoshi66/HR_Analytics/blob/main/HR_Analytics.csv"> Dataset</a>
 
 ## DashBoard 
+
+< a href = "https://github.com/Manishjoshi66/HR_Analytics/blob/main/Screenshot%202026-03-10%20202321.png"> DashBoard</a>
+
+
